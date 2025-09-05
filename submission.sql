@@ -29,3 +29,7 @@ SELECT * FROM emptystack_accounts WHERE username = 'your-boss-99';
 
 SELECT * FROM emptystack_projects WHERE code = 'TAXI';
 --DczE0v2b | TAXI
+
+--Username: your-boss-99
+--Password: notagaincarter
+--ID: DczE0v2b
